@@ -51,7 +51,7 @@ A Spring Boot application for managing users with features like registration, lo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/user-management-system.git
+git clone https://github.com/AMALGEORGE95/UserManagementSystem.git
 cd user-management-system
 ```
 
